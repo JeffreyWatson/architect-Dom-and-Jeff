@@ -1,0 +1,18 @@
+.girl {
+  max-height: 66%;
+  object-fit: cover;
+  justify-content: space-around;
+}
+
+.karen {
+  min-height: 66%;
+}
+
+.btn {
+  margin-top: auto;
+}
+
+.map {
+  border-radius: 15px;
+  padding: 25px;
+}
